@@ -55,7 +55,7 @@
 ;!include "${LANG}SimpChinese.nsh"
 ;!include "${LANG}Slovak.nsh"
 ;!include "${LANG}Slovenian.nsh"
-;!include "${LANG}Spanish.nsh"
+!include "${LANG}Spanish.nsh"
 ;!include "${LANG}SpanishInternational.nsh"
 ;!include "${LANG}Swedish.nsh"
 ;!include "${LANG}Thai.nsh"

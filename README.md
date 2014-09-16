@@ -1,4 +1,4 @@
-*Read in diferent lang. [English](README.txt), [Spanish](README.es.md).*
+*Read this in other languages: [English](README.txt), [Spanish](README.es.md).*
 
 Open up your .iso, and put the sfs, intrd.gz, vmlinuz and any other needed files (like "zdrv_123.sfs") into the "puppyFiles" folder.
 

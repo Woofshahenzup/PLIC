@@ -1,3 +1,5 @@
+Read in diferent lang. [English](README.txt), [Spanish](README.es.md)
+
 Open up your .iso, and put the sfs, intrd.gz, vmlinuz and any other needed files (like "zdrv_123.sfs") into the "puppyFiles" folder.
 
 Next, open up "Settings.nsh" in a text editor, and fill in the info there. Make sure you save it!

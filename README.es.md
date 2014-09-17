@@ -12,9 +12,9 @@ Su instalador será creado y puesto en el mismo directorio de main.nsi.
 
 #### Enlaces de descarga 
 
-***[NSIS](http://nsis.sourceforge.net/Main_Page)
+##### [NSIS](http://nsis.sourceforge.net/Main_Page)
 
-***[Fork de PLIC](https://github.com/Woofshahenzup/PLIC/archive/master.zip)
+##### [Fork de PLIC](https://github.com/Woofshahenzup/PLIC/archive/master.zip)
 
 ![screenshot](http://s5.postimg.org/65p5yrmav/PLIC1.png)
 

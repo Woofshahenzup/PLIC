@@ -10,13 +10,19 @@ Su instalador será creado y puesto en el mismo directorio de main.nsi.
 
 - Descargar el proyecto PLIC junto con NSIS en el mismo directorio.
 
+#### Enlaces de descarga 
+
+***[NSIS](http://nsis.sourceforge.net/Main_Page)
+
+***[Fork de PLIC](https://github.com/Woofshahenzup/PLIC/archive/master.zip)
+
 ![screenshot](http://s5.postimg.org/65p5yrmav/PLIC1.png)
 
-- Una vez instalado NSIS, ir al directorio C:\Archivos de Programa\NSIS\ y ejecutar makesiw.exe y dejar abierta la ventana.
+- Una vez instalado NSIS, ir al directorio C:\Archivos de Programa\NSIS\ y ejecutar makensisw.exe y dejar abierta la ventana.
 
 ![screenshot](http://s5.postimg.org/csbtry3zb/PLIC2.png)
 
-- Abrir como texto el archivo Settings.nsh y llenar con la información relacionada a la .iso.
+- Abrir como texto el archivo /PLIC/Settings.nsh y llenar con la información relacionada a la .iso.
 
 ![screenshot](http://s5.postimg.org/a8blk3r1j/PLIC3.png)
 
@@ -40,12 +46,12 @@ Su instalador será creado y puesto en el mismo directorio de main.nsi.
 
 ![screenshot](http://s5.postimg.org/b6wk04trb/PLIC8.png)
 
-- Clone el repositorio para empezar a traducirlo al español.
+- Hice Clon del repositorio para ayudar a traducirlo al español.
 
 ![screenshot](http://s5.postimg.org/60gtbcplz/PLIC9.png)
 
 - La ventana interior no toma los acentos o tildes, lo demás en orden.
 
-![screenshot](http://s5.postimg.org/ngfkqsdyf/PLIC99.png).
+![screenshot](http://s5.postimg.org/ngfkqsdyf/PLIC99.png)
 
  Fin.

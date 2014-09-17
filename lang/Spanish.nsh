@@ -6,7 +6,7 @@
 ; 5: Convert English strings below to your language
 ; Interface
 LangString welcomeTitle ${LANG_SPANISH} "${PRODUCT_NAME} ${PRODUCT_VERSION} Configuración"
-LangString welcomeText ${LANG_SPANISH} "Este asistente instalará ${PRODUCT_NAME} ${PRODUCT_VERSION}.$\r$\n$\r$\nHaga click en Instalar para iniciar la instalación."
+LangString welcomeText ${LANG_SPANISH} "Este asistente va a instalar ${PRODUCT_NAME} ${PRODUCT_VERSION}.$\r$\n$\r$\nHaga click en Instalar para iniciar."
 
 LangString finishTitle ${LANG_SPANISH} "Instalación completa!"
 LangString rebootQuestion ${LANG_SPANISH} "Le gustaría reiniciar ahora para ejecutar ${PRODUCT_NAME} ${PRODUCT_VERSION}?"
